@@ -73,12 +73,12 @@
                                     <ul class="list-group list-group-flush">
                                         ${gearItems.filter(item => item.item_id !== 0).map(item => `
                                             <li class="list-group-item bg-dark text-light">
-                                                <a href="https://www.wowhead.com/item=${item.item_id}" data-wowhead="item=${item.item_id}"
-                                                   style="color: ${getItemQualityColor(item.item_quality)};">
-                                                    <img src="https://wow.zamimg.com/images/wow/icons/large/${getItemIcon(item.item_id)}.jpg" 
+                                            <img src="https://wow.zamimg.com/images/wow/icons/large/${getItemIcon(item.item_id)}.jpg" 
                                                          alt="${item.item_name}" 
                                                          class="img-thumbnail" 
-                                                         style="width: 32px; height: 32px;">
+                                                         style="width: 45px; height: 45px;">
+                                                <a href="https://www.wowhead.com/classic/item=${item.item_id}" data-wowhead="item=${item.item_id}"
+                                                   style="color: ${getItemQualityColor(item.item_quality)};">
                                                     <strong>${item.item_name}</strong>
                                                 </a><br>
                                                 Item Level: ${item.item_level}<br>
