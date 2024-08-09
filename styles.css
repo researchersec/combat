@@ -1,0 +1,39 @@
+body {
+    background-color: #121212;
+    color: #e0e0e0;
+}
+
+.card {
+    background-color: #1e1e1e;
+    border-color: #333;
+}
+
+.card-title, .card h5, .card h6 {
+    color: #ffffff;
+}
+
+.list-group-item {
+    background-color: #1e1e1e;
+    border-color: #333;
+}
+
+a {
+    color: #1eff00; /* This will apply to links, but is overridden by inline styles */
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+h1, h2, h5 {
+    color: #ffffff;
+}
+
+h6, p {
+    color: #b0b0b0;
+}
+
+.img-thumbnail {
+    background-color: #333;
+    border-color: #555;
+}
