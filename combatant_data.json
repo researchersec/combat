@@ -1,1471 +1,4 @@
 {
-    "Excup": {
-        "gear": [
-            {
-                "item_id": 226622,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6987
-                ],
-                "item_name": "Earthfury Visor",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 228289,
-                "item_level": 77,
-                "bonuses": [],
-                "item_name": "Choker of the Fire Lord",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227866,
-                "item_level": 63,
-                "bonuses": [
-                    2483,
-                    0
-                ],
-                "item_name": "Masterwork Volcanic Shoulders",
-                "item_quality": "3",
-                "total_resistance": 25
-            },
-            {
-                "item_id": 2579,
-                "item_level": 14,
-                "bonuses": [],
-                "item_name": "Green Linen Shirt",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227868,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    6878
-                ],
-                "item_name": "Masterwork Volcanic Breastplate",
-                "item_quality": "3",
-                "total_resistance": 25
-            },
-            {
-                "item_id": 227008,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    6980
-                ],
-                "item_name": "Cord of The Five Thunders",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226623,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6880
-                ],
-                "item_name": "Earthfury Leggings",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 227007,
-                "item_level": 60,
-                "bonuses": [
-                    0,
-                    6882
-                ],
-                "item_name": "Slippers of The Five Thunders",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226626,
-                "item_level": 66,
-                "bonuses": [
-                    1883,
-                    7126
-                ],
-                "item_name": "Earthfury Wristbands",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226621,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6883
-                ],
-                "item_name": "Earthfury Hands",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 227454,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7517
-                ],
-                "item_name": "Tidal Loop",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228687,
-                "item_level": 74,
-                "bonuses": [
-                    0,
-                    7515
-                ],
-                "item_name": "Dragonslayer's Signet",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 18471,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Royal Seal of Eldre'Thalas",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 228081,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Germinating Poisonseed",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227869,
-                "item_level": 62,
-                "bonuses": [
-                    7564,
-                    7268
-                ],
-                "item_name": "Brilliant Chromatic Cloak",
-                "item_quality": "4",
-                "total_resistance": 28
-            },
-            {
-                "item_id": 228382,
-                "item_level": 70,
-                "bonuses": [
-                    2504,
-                    7567
-                ],
-                "item_name": "Fang of the Mystics",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228106,
-                "item_level": 62,
-                "bonuses": [
-                    7603,
-                    7602
-                ],
-                "item_name": "Shield of Life and Death",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228176,
-                "item_level": 65,
-                "bonuses": [],
-                "item_name": "Totem of Thunder",
-                "item_quality": "3",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 190
-    },
-    "Haegstrom": {
-        "gear": [
-            {
-                "item_id": 226658,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    7104
-                ],
-                "item_name": "Cenarion Antlers",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 228536,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Star of Mystaria",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226653,
-                "item_level": 66,
-                "bonuses": [
-                    2483,
-                    0
-                ],
-                "item_name": "Cenarion Mantle",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 226776,
-                "item_level": 60,
-                "bonuses": [
-                    928,
-                    6872
-                ],
-                "item_name": "Feralheart Vest",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226772,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7106
-                ],
-                "item_name": "Feralheart Sash",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226651,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    7011
-                ],
-                "item_name": "Cenarion Pants",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 226652,
-                "item_level": 66,
-                "bonuses": [
-                    911,
-                    6871
-                ],
-                "item_name": "Cenarion Sandals",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226655,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6977
-                ],
-                "item_name": "Cenarion Wrists",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226654,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6976
-                ],
-                "item_name": "Cenarion Gauntlets",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 227454,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7514
-                ],
-                "item_name": "Tidal Loop",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 11978,
-                "item_level": 58,
-                "bonuses": [
-                    0,
-                    7517
-                ],
-                "item_name": "Jasper Link",
-                "item_quality": "2",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228084,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
-                "item_quality": "3",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228589,
-                "item_level": 61,
-                "bonuses": [],
-                "item_name": "Heart of the Scale",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 227869,
-                "item_level": 62,
-                "bonuses": [
-                    7564,
-                    7259
-                ],
-                "item_name": "Brilliant Chromatic Cloak",
-                "item_quality": "4",
-                "total_resistance": 28
-            },
-            {
-                "item_id": 227886,
-                "item_level": 69,
-                "bonuses": [
-                    2504,
-                    2627
-                ],
-                "item_name": "Skyrider's Masterwork Stormhammer",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228548,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Scepter of Interminable Focus",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228180,
-                "item_level": 60,
-                "bonuses": [],
-                "item_name": "Idol of the Swarm",
-                "item_quality": "3",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 162
-    },
-    "Moogasm": {
-        "gear": [
-            {
-                "item_id": 228385,
-                "item_level": 68,
-                "bonuses": [
-                    1505,
-                    7125
-                ],
-                "item_name": "Crystal Adorned Crown",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228067,
-                "item_level": 61,
-                "bonuses": [],
-                "item_name": "Elder Magus Pendant",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 227866,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Masterwork Volcanic Shoulders",
-                "item_quality": "3",
-                "total_resistance": 25
-            },
-            {
-                "item_id": 4334,
-                "item_level": 34,
-                "bonuses": [],
-                "item_name": "Formal White Shirt",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227868,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    6878
-                ],
-                "item_name": "Masterwork Volcanic Breastplate",
-                "item_quality": "3",
-                "total_resistance": 25
-            },
-            {
-                "item_id": 19162,
-                "item_level": 70,
-                "bonuses": [
-                    0,
-                    6980
-                ],
-                "item_name": "Corehound Belt",
-                "item_quality": "4",
-                "total_resistance": 12
-            },
-            {
-                "item_id": 228245,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6880
-                ],
-                "item_name": "Salamander Scale Pants",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 227015,
-                "item_level": 60,
-                "bonuses": [
-                    0,
-                    7048
-                ],
-                "item_name": "Greaves of The Five Thunders",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226618,
-                "item_level": 66,
-                "bonuses": [
-                    2566,
-                    6885
-                ],
-                "item_name": "Earthfury Bracers",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 227014,
-                "item_level": 55,
-                "bonuses": [
-                    0,
-                    6875
-                ],
-                "item_name": "Grasp of The Five Thunders",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 13178,
-                "item_level": 60,
-                "bonuses": [
-                    0,
-                    7517
-                ],
-                "item_name": "Rosewine Circle",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 12545,
-                "item_level": 60,
-                "bonuses": [
-                    0,
-                    7515
-                ],
-                "item_name": "Eye of Orgrimmar",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228084,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
-                "item_quality": "3",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 221463,
-                "item_level": 50,
-                "bonuses": [],
-                "item_name": "Ancestral Voodoo Doll",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228389,
-                "item_level": 67,
-                "bonuses": [
-                    7564,
-                    7000
-                ],
-                "item_name": "Drape of Benediction",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228168,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    2627
-                ],
-                "item_name": "Goblin Gear Grinder",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228294,
-                "item_level": 77,
-                "bonuses": [
-                    7603,
-                    7602
-                ],
-                "item_name": "Malistar's Defender",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 23200,
-                "item_level": 65,
-                "bonuses": [],
-                "item_name": "Totem of Sustaining",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 5976,
-                "item_level": 1,
-                "bonuses": [],
-                "item_name": "Guild Tabard",
-                "item_quality": "1",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 167
-    },
-    "Inå": {
-        "gear": [
-            {
-                "item_id": 226564,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6726
-                ],
-                "item_name": "Arcanist Headdress",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 16309,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Drakefire Amulet",
-                "item_quality": "3",
-                "total_resistance": 15
-            },
-            {
-                "item_id": 226566,
-                "item_level": 66,
-                "bonuses": [
-                    7325,
-                    0
-                ],
-                "item_name": "Arcanist Shoulders",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 221316,
-                "item_level": 55,
-                "bonuses": [],
-                "item_name": "Premo's Poise-Demanding Uniform",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226563,
-                "item_level": 66,
-                "bonuses": [
-                    928,
-                    6729
-                ],
-                "item_name": "Arcanist Garments",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 226570,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6733
-                ],
-                "item_name": "Arcanist Cord",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 226565,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6927
-                ],
-                "item_name": "Arcanist Pants",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 18102,
-                "item_level": 63,
-                "bonuses": [
-                    911,
-                    7022
-                ],
-                "item_name": "Dragonrider Boots",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 11766,
-                "item_level": 57,
-                "bonuses": [
-                    1884,
-                    7561
-                ],
-                "item_name": "Flameweave Cuffs",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 226569,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6728
-                ],
-                "item_name": "Arcanist Handguards",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 227279,
-                "item_level": 63,
-                "bonuses": [
-                    0,
-                    7515
-                ],
-                "item_name": "Loop of the Magister",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 220628,
-                "item_level": 55,
-                "bonuses": [
-                    0,
-                    7516
-                ],
-                "item_name": "Drakeclaw Band of the Harbinger",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227972,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Burst of Knowledge",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228466,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Royal Seal of Eldre'Thalas",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 227970,
-                "item_level": 58,
-                "bonuses": [
-                    7564,
-                    6723
-                ],
-                "item_name": "Cape of the Fire Salamander",
-                "item_quality": "3",
-                "total_resistance": 32
-            },
-            {
-                "item_id": 223518,
-                "item_level": 57,
-                "bonuses": [
-                    2443,
-                    2627
-                ],
-                "item_name": "Charstone Dirk",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228955,
-                "item_level": 76,
-                "bonuses": [],
-                "item_name": "Ancient Cornerstone Grimoire",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 13004,
-                "item_level": 58,
-                "bonuses": [],
-                "item_name": "Torch of Austen",
-                "item_quality": "3",
-                "total_resistance": 10
-            }
-        ],
-        "total_resistance": 178
-    },
-    "Poptard": {
-        "gear": [
-            {
-                "item_id": 226533,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6994
-                ],
-                "item_name": "Giantstalker's Helmet",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 228685,
-                "item_level": 74,
-                "bonuses": [],
-                "item_name": "Onyxia Tooth Pendant",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 226527,
-                "item_level": 66,
-                "bonuses": [],
-                "item_name": "Giantstalker's Epaulets",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 11840,
-                "item_level": 55,
-                "bonuses": [],
-                "item_name": "Master Builder's Shirt",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226723,
-                "item_level": 63,
-                "bonuses": [
-                    928,
-                    6901
-                ],
-                "item_name": "Beaststalker's Tunic",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228595,
-                "item_level": 61,
-                "bonuses": [
-                    0,
-                    6890
-                ],
-                "item_name": "Marksman's Girdle",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226532,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6995
-                ],
-                "item_name": "Giantstalker's Leggings",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 226531,
-                "item_level": 66,
-                "bonuses": [
-                    911,
-                    6895
-                ],
-                "item_name": "Giantstalker's Boots",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 11764,
-                "item_level": 57,
-                "bonuses": [
-                    0,
-                    7108
-                ],
-                "item_name": "Cinderhide Armsplints",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 226721,
-                "item_level": 59,
-                "bonuses": [
-                    1887,
-                    6899
-                ],
-                "item_name": "Beaststalker's Gloves",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 11976,
-                "item_level": 52,
-                "bonuses": [],
-                "item_name": "Sardonyx Knuckle",
-                "item_quality": "2",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227455,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7512
-                ],
-                "item_name": "Ocean's Breeze",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228084,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
-                "item_quality": "3",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 227990,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Hand of Injustice",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228290,
-                "item_level": 77,
-                "bonuses": [
-                    7564,
-                    7264
-                ],
-                "item_name": "Cloak of the Shrouded Mists",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 22314,
-                "item_level": 61,
-                "bonuses": [
-                    2646,
-                    7141
-                ],
-                "item_name": "Huntsman's Harpoon",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 19107,
-                "item_level": 63,
-                "bonuses": [
-                    664,
-                    0
-                ],
-                "item_name": "Bloodseeker",
-                "item_quality": "3",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 162
-    },
-    "Dunderklumpe": {
-        "gear": [
-            {
-                "item_id": 226947,
-                "item_level": 60,
-                "bonuses": [
-                    1505,
-                    7109
-                ],
-                "item_name": "Virtuous Crown",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228067,
-                "item_level": 61,
-                "bonuses": [],
-                "item_name": "Elder Magus Pendant",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 226576,
-                "item_level": 66,
-                "bonuses": [
-                    2483,
-                    0
-                ],
-                "item_name": "Mantle of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 221316,
-                "item_level": 55,
-                "bonuses": [],
-                "item_name": "Premo's Poise-Demanding Uniform",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226945,
-                "item_level": 60,
-                "bonuses": [
-                    1893,
-                    6936
-                ],
-                "item_name": "Virtuous Robe",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226577,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    7026
-                ],
-                "item_name": "Girdle of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 226574,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6740
-                ],
-                "item_name": "Pants of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 226952,
-                "item_level": 60,
-                "bonuses": [
-                    0,
-                    7029
-                ],
-                "item_name": "Virtuous Sandals",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226949,
-                "item_level": 65,
-                "bonuses": [
-                    2566,
-                    7589
-                ],
-                "item_name": "Virtuous Bracers",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227823,
-                "item_level": 71,
-                "bonuses": [
-                    0,
-                    6752
-                ],
-                "item_name": "Fine Flarecore Gloves",
-                "item_quality": "4",
-                "total_resistance": 25
-            },
-            {
-                "item_id": 227454,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7518
-                ],
-                "item_name": "Tidal Loop",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 16058,
-                "item_level": 63,
-                "bonuses": [
-                    0,
-                    7518
-                ],
-                "item_name": "Fordring's Seal",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228084,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
-                "item_quality": "3",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 18469,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Royal Seal of Eldre'Thalas",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 12905,
-                "item_level": 61,
-                "bonuses": [
-                    7564,
-                    6742
-                ],
-                "item_name": "Wildfire Cape",
-                "item_quality": "3",
-                "total_resistance": 40
-            },
-            {
-                "item_id": 228335,
-                "item_level": 75,
-                "bonuses": [
-                    2505,
-                    7141
-                ],
-                "item_name": "Benediction",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 13004,
-                "item_level": 58,
-                "bonuses": [],
-                "item_name": "Torch of Austen",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 20131,
-                "item_level": 20,
-                "bonuses": [],
-                "item_name": "Battle Tabard of the Defilers",
-                "item_quality": "1",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 199
-    },
-    "Djmulis": {
-        "gear": [
-            {
-                "item_id": 226829,
-                "item_level": 60,
-                "bonuses": [
-                    1505,
-                    7131
-                ],
-                "item_name": "Darkmantle Cap",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228685,
-                "item_level": 74,
-                "bonuses": [],
-                "item_name": "Onyxia Tooth Pendant",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 227056,
-                "item_level": 71,
-                "bonuses": [
-                    7328,
-                    0
-                ],
-                "item_name": "Champion's Leather Shoulders",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226447,
-                "item_level": 66,
-                "bonuses": [
-                    928,
-                    6708
-                ],
-                "item_name": "Nightslayer Chestpiece",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 19163,
-                "item_level": 70,
-                "bonuses": [
-                    0,
-                    7018
-                ],
-                "item_name": "Molten Belt",
-                "item_quality": "4",
-                "total_resistance": 12
-            },
-            {
-                "item_id": 227847,
-                "item_level": 65,
-                "bonuses": [
-                    1505,
-                    6787
-                ],
-                "item_name": "Devilcore Leggings",
-                "item_quality": "4",
-                "total_resistance": 40
-            },
-            {
-                "item_id": 228091,
-                "item_level": 62,
-                "bonuses": [
-                    1887,
-                    7019
-                ],
-                "item_name": "Thorned Boots",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226830,
-                "item_level": 65,
-                "bonuses": [
-                    1885,
-                    7133
-                ],
-                "item_name": "Darkmantle Bracers",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227848,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    6715
-                ],
-                "item_name": "Devilcore Gauntlets",
-                "item_quality": "4",
-                "total_resistance": 15
-            },
-            {
-                "item_id": 227455,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7510
-                ],
-                "item_name": "Ocean's Breeze",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 227280,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7517
-                ],
-                "item_name": "Craft of the Shadows",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228464,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Royal Seal of Eldre'Thalas",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 228084,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
-                "item_quality": "3",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 12905,
-                "item_level": 61,
-                "bonuses": [
-                    7564,
-                    6911
-                ],
-                "item_name": "Wildfire Cape",
-                "item_quality": "3",
-                "total_resistance": 40
-            },
-            {
-                "item_id": 228757,
-                "item_level": 63,
-                "bonuses": [
-                    1900,
-                    7141
-                ],
-                "item_name": "Felstriker",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228472,
-                "item_level": 62,
-                "bonuses": [
-                    1900,
-                    2506
-                ],
-                "item_name": "Distracting Dagger",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228050,
-                "item_level": 58,
-                "bonuses": [],
-                "item_name": "Satyr's Bow",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 20131,
-                "item_level": 20,
-                "bonuses": [],
-                "item_name": "Battle Tabard of the Defilers",
-                "item_quality": "1",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 197
-    },
-    "Mooped": {
-        "gear": [
-            {
-                "item_id": 226638,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6982
-                ],
-                "item_name": "Earthfury Headpiece",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 228584,
-                "item_level": 61,
-                "bonuses": [],
-                "item_name": "Emberfury Talisman",
-                "item_quality": "3",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 228583,
-                "item_level": 61,
-                "bonuses": [
-                    2483,
-                    0
-                ],
-                "item_name": "Truestrike Shoulders",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226635,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    7224
-                ],
-                "item_name": "Earthfury Chainmail",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 13526,
-                "item_level": 62,
-                "bonuses": [
-                    0,
-                    6879
-                ],
-                "item_name": "Flamescarred Girdle",
-                "item_quality": "2",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 226639,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6877
-                ],
-                "item_name": "Earthfury Chain Leggings",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 227158,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6882
-                ],
-                "item_name": "Blood Guard's Mail Greaves",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226642,
-                "item_level": 66,
-                "bonuses": [
-                    1885,
-                    7127
-                ],
-                "item_name": "Earthfury Bindings",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 227159,
-                "item_level": 66,
-                "bonuses": [
-                    856,
-                    6883
-                ],
-                "item_name": "Blood Guard's Mail Vices",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227455,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7508
-                ],
-                "item_name": "Ocean's Breeze",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228261,
-                "item_level": 68,
-                "bonuses": [
-                    0,
-                    7515
-                ],
-                "item_name": "Quick Strike Ring",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228078,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Accursed Chalice",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228722,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Hand of Justice",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 12905,
-                "item_level": 61,
-                "bonuses": [
-                    7564,
-                    7267
-                ],
-                "item_name": "Wildfire Cape",
-                "item_quality": "3",
-                "total_resistance": 40
-            },
-            {
-                "item_id": 228299,
-                "item_level": 77,
-                "bonuses": [
-                    1900,
-                    7569
-                ],
-                "item_name": "Spinal Reaper",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228177,
-                "item_level": 65,
-                "bonuses": [],
-                "item_name": "Totem of Raging Fire",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 19505,
-                "item_level": 20,
-                "bonuses": [],
-                "item_name": "Warsong Battle Tabard",
-                "item_quality": "1",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 162
-    },
     "Nazdrek": {
         "gear": [
             {
@@ -1480,23 +13,23 @@
                 "total_resistance": 30
             },
             {
-                "item_id": 16309,
-                "item_level": 63,
+                "item_id": 228685,
+                "item_level": 74,
                 "bonuses": [],
-                "item_name": "Drakefire Amulet",
-                "item_quality": "3",
-                "total_resistance": 15
+                "item_name": "Onyxia Tooth Pendant",
+                "item_quality": "4",
+                "total_resistance": 10
             },
             {
-                "item_id": 226826,
-                "item_level": 65,
+                "item_id": 226444,
+                "item_level": 66,
                 "bonuses": [
                     7328,
                     0
                 ],
-                "item_name": "Darkmantle Spaulders",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Nightslayer Shoulder Pads",
+                "item_quality": "4",
+                "total_resistance": 7
             },
             {
                 "item_id": 17723,
@@ -1518,15 +51,15 @@
                 "total_resistance": 10
             },
             {
-                "item_id": 226832,
-                "item_level": 65,
+                "item_id": 226440,
+                "item_level": 66,
                 "bonuses": [
                     0,
                     7018
                 ],
-                "item_name": "Darkmantle Belt",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Nightslayer Belt",
+                "item_quality": "4",
+                "total_resistance": 7
             },
             {
                 "item_id": 226445,
@@ -1554,7 +87,7 @@
                 "item_id": 226442,
                 "item_level": 66,
                 "bonuses": [
-                    0,
+                    1885,
                     7133
                 ],
                 "item_name": "Nightslayer Bracelets",
@@ -1562,15 +95,15 @@
                 "total_resistance": 5
             },
             {
-                "item_id": 226828,
-                "item_level": 55,
+                "item_id": 228257,
+                "item_level": 71,
                 "bonuses": [
                     1887,
                     6715
                 ],
-                "item_name": "Darkmantle Grips",
+                "item_name": "Aged Core Leather Gloves",
                 "item_quality": "4",
-                "total_resistance": 0
+                "total_resistance": 10
             },
             {
                 "item_id": 227455,
@@ -1595,12 +128,12 @@
                 "total_resistance": 0
             },
             {
-                "item_id": 228084,
-                "item_level": 62,
+                "item_id": 228722,
+                "item_level": 63,
                 "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
+                "item_name": "Hand of Justice",
                 "item_quality": "3",
-                "total_resistance": 20
+                "total_resistance": 0
             },
             {
                 "item_id": 228464,
@@ -1644,13 +177,10 @@
                 "total_resistance": 0
             },
             {
-                "item_id": 2100,
-                "item_level": 48,
-                "bonuses": [
-                    664,
-                    0
-                ],
-                "item_name": "Precisely Calibrated Boomstick",
+                "item_id": 228519,
+                "item_level": 71,
+                "bonuses": [],
+                "item_name": "Striker's Mark",
                 "item_quality": "4",
                 "total_resistance": 0
             },
@@ -1663,18 +193,18 @@
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 201
+        "total_resistance": 200
     },
-    "Noxt": {
+    "Player-5826-01FD8D41": {
         "gear": [
             {
-                "item_id": 226584,
+                "item_id": 226638,
                 "item_level": 66,
                 "bonuses": [
                     1505,
-                    6933
+                    6987
                 ],
-                "item_name": "Crown of Prophecy",
+                "item_name": "Earthfury Headpiece",
                 "item_quality": "4",
                 "total_resistance": 30
             },
@@ -1687,347 +217,168 @@
                 "total_resistance": 15
             },
             {
-                "item_id": 226581,
-                "item_level": 66,
+                "item_id": 227019,
+                "item_level": 65,
                 "bonuses": [],
-                "item_name": "Shoulderpads of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 221316,
-                "item_level": 55,
-                "bonuses": [],
-                "item_name": "Premo's Poise-Demanding Uniform",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226582,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    7024
-                ],
-                "item_name": "Garments of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 228256,
-                "item_level": 71,
-                "bonuses": [
-                    0,
-                    7110
-                ],
-                "item_name": "Mana Igniting Cord",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 227839,
-                "item_level": 71,
-                "bonuses": [
-                    1505,
-                    6744
-                ],
-                "item_name": "Fine Flarecore Leggings",
-                "item_quality": "4",
-                "total_resistance": 40
-            },
-            {
-                "item_id": 226586,
-                "item_level": 66,
-                "bonuses": [
-                    911,
-                    7541
-                ],
-                "item_name": "Sandals of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226579,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    7112
-                ],
-                "item_name": "Wristwraps of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226585,
-                "item_level": 66,
-                "bonuses": [
-                    18,
-                    6934
-                ],
-                "item_name": "Hands of Prophecy",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 228085,
-                "item_level": 62,
-                "bonuses": [
-                    0,
-                    7518
-                ],
-                "item_name": "Phaseshifted Legion Band",
+                "item_name": "Spaulders of The Five Thunders",
                 "item_quality": "3",
                 "total_resistance": 0
             },
             {
-                "item_id": 228243,
-                "item_level": 71,
-                "bonuses": [
-                    0,
-                    7518
-                ],
-                "item_name": "Ring of Spell Power",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 2802,
-                "item_level": 43,
-                "bonuses": [],
-                "item_name": "Blazing Emblem",
-                "item_quality": "3",
-                "total_resistance": 15
-            },
-            {
-                "item_id": 228255,
-                "item_level": 71,
-                "bonuses": [],
-                "item_name": "Talisman of Ephemeral Power",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 15138,
+                "item_id": 227024,
                 "item_level": 60,
                 "bonuses": [
-                    7564,
-                    6749
+                    1843,
+                    6874
                 ],
-                "item_name": "Onyxia Scale Cloak",
-                "item_quality": "3",
-                "total_resistance": 36
+                "item_name": "Chain of The Five Thunders",
+                "item_quality": "4",
+                "total_resistance": 0
             },
             {
-                "item_id": 223538,
-                "item_level": 53,
+                "item_id": 226641,
+                "item_level": 66,
                 "bonuses": [
                     0,
-                    2627
+                    6879
                 ],
-                "item_name": "Kindling Stave",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 228262,
-                "item_level": 66,
-                "bonuses": [],
-                "item_name": "Crimson Shocker",
+                "item_name": "Earthfury Girdle",
                 "item_quality": "4",
-                "total_resistance": 10
+                "total_resistance": 7
             },
             {
-                "item_id": 19505,
-                "item_level": 20,
-                "bonuses": [],
-                "item_name": "Warsong Battle Tabard",
-                "item_quality": "1",
-                "total_resistance": 0
-            }
-        ],
-        "total_resistance": 190
-    },
-    "Iskastarn": {
-        "gear": [
-            {
-                "item_id": 226562,
+                "item_id": 226639,
                 "item_level": 66,
                 "bonuses": [
                     1505,
-                    7560
+                    6880
                 ],
-                "item_name": "Arcanist Crown",
+                "item_name": "Earthfury Chain Leggings",
                 "item_quality": "4",
                 "total_resistance": 30
             },
             {
-                "item_id": 228533,
-                "item_level": 61,
-                "bonuses": [],
-                "item_name": "Nacreous Shell Necklace",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226560,
-                "item_level": 66,
-                "bonuses": [],
-                "item_name": "Arcanist Mantle",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 6096,
-                "item_level": 1,
-                "bonuses": [],
-                "item_name": "Apprentice's Shirt",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226559,
-                "item_level": 66,
-                "bonuses": [
-                    928,
-                    6729
-                ],
-                "item_name": "Arcanist Robes",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 226555,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6732
-                ],
-                "item_name": "Arcanist Belt",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 227839,
-                "item_level": 71,
-                "bonuses": [
-                    1505,
-                    7020
-                ],
-                "item_name": "Fine Flarecore Leggings",
-                "item_quality": "4",
-                "total_resistance": 40
-            },
-            {
-                "item_id": 226931,
+                "item_id": 227023,
                 "item_level": 60,
                 "bonuses": [
                     0,
-                    6921
+                    6882
                 ],
-                "item_name": "Sorcerer's Sandals",
+                "item_name": "Treads of The Five Thunders",
                 "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 226558,
-                "item_level": 66,
+                "item_id": 227017,
+                "item_level": 65,
                 "bonuses": [
-                    0,
-                    7097
+                    927,
+                    7128
                 ],
-                "item_name": "Arcanist Bindings",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226556,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6923
-                ],
-                "item_name": "Arcanist Gloves",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 228683,
-                "item_level": 63,
-                "bonuses": [
-                    0,
-                    7516
-                ],
-                "item_name": "Rune Band of Wizardry",
+                "item_name": "Bands of The Five Thunders",
                 "item_quality": "3",
                 "total_resistance": 0
             },
             {
-                "item_id": 228687,
-                "item_level": 74,
+                "item_id": 226637,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6884
+                ],
+                "item_name": "Earthfury Grips",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 11978,
+                "item_level": 58,
+                "bonuses": [
+                    0,
+                    7511
+                ],
+                "item_name": "Jasper Link",
+                "item_quality": "2",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 11976,
+                "item_level": 52,
                 "bonuses": [
                     0,
                     7515
                 ],
-                "item_name": "Dragonslayer's Signet",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 12930,
-                "item_level": 60,
-                "bonuses": [],
-                "item_name": "Briarwood Reed",
-                "item_quality": "3",
+                "item_name": "Sardonyx Knuckle",
+                "item_quality": "2",
                 "total_resistance": 0
             },
             {
-                "item_id": 228084,
+                "item_id": 228589,
+                "item_level": 61,
+                "bonuses": [],
+                "item_name": "Heart of the Scale",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 18471,
                 "item_level": 62,
                 "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
+                "item_name": "Royal Seal of Eldre'Thalas",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 13340,
+                "item_level": 63,
+                "bonuses": [
+                    7564,
+                    7268
+                ],
+                "item_name": "Cape of the Black Baron",
                 "item_quality": "3",
                 "total_resistance": 20
             },
             {
-                "item_id": 227869,
-                "item_level": 62,
+                "item_id": 228169,
+                "item_level": 60,
                 "bonuses": [
-                    7564,
-                    6734
+                    1900,
+                    7569
                 ],
-                "item_name": "Brilliant Chromatic Cloak",
-                "item_quality": "4",
-                "total_resistance": 28
-            },
-            {
-                "item_id": 228382,
-                "item_level": 70,
-                "bonuses": [
-                    0,
-                    2627
-                ],
-                "item_name": "Fang of the Mystics",
+                "item_name": "The Attitude Adjustor",
                 "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 220599,
-                "item_level": 53,
-                "bonuses": [],
-                "item_name": "Drakestone of the Blood Prophet",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228262,
+                "item_id": 228349,
                 "item_level": 66,
-                "bonuses": [],
-                "item_name": "Crimson Shocker",
+                "bonuses": [
+                    1900,
+                    7569
+                ],
+                "item_name": "Eskhandar's Left Claw",
                 "item_quality": "4",
-                "total_resistance": 10
+                "total_resistance": 0
+            },
+            {
+                "item_id": 23200,
+                "item_level": 65,
+                "bonuses": [],
+                "item_name": "Totem of Sustaining",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 15199,
+                "item_level": 40,
+                "bonuses": [],
+                "item_name": "Stone Guard's Herald",
+                "item_quality": "1",
+                "total_resistance": 0
             }
         ],
-        "total_resistance": 174
+        "total_resistance": 129
     },
     "Ostbit": {
         "gear": [
@@ -2043,20 +394,23 @@
                 "total_resistance": 30
             },
             {
-                "item_id": 228684,
-                "item_level": 63,
+                "item_id": 228685,
+                "item_level": 74,
                 "bonuses": [],
-                "item_name": "Pendant of Celerity",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Onyxia Tooth Pendant",
+                "item_quality": "4",
+                "total_resistance": 10
             },
             {
-                "item_id": 226826,
-                "item_level": 65,
-                "bonuses": [],
-                "item_name": "Darkmantle Spaulders",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_id": 226444,
+                "item_level": 66,
+                "bonuses": [
+                    7328,
+                    0
+                ],
+                "item_name": "Nightslayer Shoulder Pads",
+                "item_quality": "4",
+                "total_resistance": 7
             },
             {
                 "item_id": 221316,
@@ -2067,43 +421,43 @@
                 "total_resistance": 0
             },
             {
-                "item_id": 227868,
-                "item_level": 65,
+                "item_id": 226447,
+                "item_level": 66,
                 "bonuses": [
-                    0,
+                    928,
                     6708
                 ],
-                "item_name": "Masterwork Volcanic Breastplate",
-                "item_quality": "3",
-                "total_resistance": 25
+                "item_name": "Nightslayer Chestpiece",
+                "item_quality": "4",
+                "total_resistance": 10
             },
             {
-                "item_id": 226832,
-                "item_level": 65,
+                "item_id": 226440,
+                "item_level": 66,
                 "bonuses": [
                     0,
                     7018
                 ],
-                "item_name": "Darkmantle Belt",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Nightslayer Belt",
+                "item_quality": "4",
+                "total_resistance": 7
             },
             {
-                "item_id": 227867,
-                "item_level": 60,
+                "item_id": 226445,
+                "item_level": 66,
                 "bonuses": [
-                    0,
+                    1505,
                     6787
                 ],
-                "item_name": "Masterwork Volcanic Leggings",
-                "item_quality": "3",
+                "item_name": "Nightslayer Pants",
+                "item_quality": "4",
                 "total_resistance": 30
             },
             {
                 "item_id": 227923,
                 "item_level": 65,
                 "bonuses": [
-                    0,
+                    911,
                     7019
                 ],
                 "item_name": "Water Treads",
@@ -2111,26 +465,26 @@
                 "total_resistance": 20
             },
             {
-                "item_id": 226830,
-                "item_level": 65,
+                "item_id": 226442,
+                "item_level": 66,
                 "bonuses": [
-                    0,
+                    856,
                     7133
                 ],
-                "item_name": "Darkmantle Bracers",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Nightslayer Bracelets",
+                "item_quality": "4",
+                "total_resistance": 5
             },
             {
-                "item_id": 226828,
-                "item_level": 55,
+                "item_id": 226441,
+                "item_level": 66,
                 "bonuses": [
-                    0,
+                    1887,
                     7014
                 ],
-                "item_name": "Darkmantle Grips",
+                "item_name": "Nightslayer Gloves",
                 "item_quality": "4",
-                "total_resistance": 0
+                "total_resistance": 7
             },
             {
                 "item_id": 228286,
@@ -2155,20 +509,20 @@
                 "total_resistance": 20
             },
             {
-                "item_id": 13965,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Blackhand's Breadth",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
                 "item_id": 228464,
                 "item_level": 62,
                 "bonuses": [],
                 "item_name": "Royal Seal of Eldre'Thalas",
                 "item_quality": "3",
                 "total_resistance": 10
+            },
+            {
+                "item_id": 19120,
+                "item_level": 51,
+                "bonuses": [],
+                "item_name": "Rune of the Guard Captain",
+                "item_quality": "2",
+                "total_resistance": 0
             },
             {
                 "item_id": 213308,
@@ -2182,14 +536,14 @@
                 "total_resistance": 20
             },
             {
-                "item_id": 17705,
-                "item_level": 53,
+                "item_id": 17075,
+                "item_level": 74,
                 "bonuses": [
-                    0,
+                    1900,
                     7141
                 ],
-                "item_name": "Thrash Blade",
-                "item_quality": "3",
+                "item_name": "Vis'kag the Bloodletter",
+                "item_quality": "4",
                 "total_resistance": 0
             },
             {
@@ -2212,143 +566,135 @@
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 155
+        "total_resistance": 176
     },
-    "Hark": {
+    "Mooped": {
         "gear": [
             {
-                "item_id": 12640,
-                "item_level": 61,
-                "bonuses": [
-                    1505,
-                    7588
-                ],
-                "item_name": "Lionheart Helm",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 228685,
-                "item_level": 74,
-                "bonuses": [],
-                "item_name": "Onyxia Tooth Pendant",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 226492,
+                "item_id": 226638,
                 "item_level": 66,
                 "bonuses": [
-                    7328,
+                    1505,
+                    6987
+                ],
+                "item_name": "Earthfury Headpiece",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 228147,
+                "item_level": 66,
+                "bonuses": [],
+                "item_name": "Magmadar's Horn",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226640,
+                "item_level": 66,
+                "bonuses": [
+                    2483,
                     0
                 ],
-                "item_name": "Pauldrons of Might",
+                "item_name": "Earthfury Spaulders",
                 "item_quality": "4",
                 "total_resistance": 7
             },
             {
-                "item_id": 6125,
-                "item_level": 1,
-                "bonuses": [],
-                "item_name": "Brawler's Harness",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226770,
-                "item_level": 63,
-                "bonuses": [
-                    928,
-                    7034
-                ],
-                "item_name": "Breastplate of Valor",
-                "item_quality": "3",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226864,
-                "item_level": 65,
+                "item_id": 226635,
+                "item_level": 66,
                 "bonuses": [
                     0,
-                    6941
+                    7224
                 ],
-                "item_name": "Belt of Heroism",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Earthfury Chainmail",
+                "item_quality": "4",
+                "total_resistance": 10
             },
             {
-                "item_id": 228240,
+                "item_id": 226641,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6879
+                ],
+                "item_name": "Earthfury Girdle",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 226639,
                 "item_level": 66,
                 "bonuses": [
                     1505,
-                    7036
+                    6877
                 ],
-                "item_name": "Flamewaker Legplates",
+                "item_name": "Earthfury Chain Leggings",
                 "item_quality": "4",
-                "total_resistance": 40
+                "total_resistance": 30
             },
             {
-                "item_id": 226857,
-                "item_level": 60,
+                "item_id": 226636,
+                "item_level": 66,
                 "bonuses": [
                     911,
-                    7059
+                    6882
                 ],
-                "item_name": "Battleboots of Heroism",
+                "item_name": "Earthfury Battleboots",
                 "item_quality": "4",
-                "total_resistance": 0
+                "total_resistance": 5
             },
             {
-                "item_id": 227820,
-                "item_level": 71,
+                "item_id": 226642,
+                "item_level": 66,
                 "bonuses": [
-                    927,
-                    7068
+                    1885,
+                    7127
                 ],
-                "item_name": "Tempered Dark Iron Bracers",
+                "item_name": "Earthfury Bindings",
                 "item_quality": "4",
-                "total_resistance": 20
+                "total_resistance": 5
             },
             {
-                "item_id": 19164,
-                "item_level": 70,
+                "item_id": 226637,
+                "item_level": 66,
                 "bonuses": [
                     931,
-                    6948
+                    7031
                 ],
-                "item_name": "Dark Iron Gauntlets",
+                "item_name": "Earthfury Grips",
                 "item_quality": "4",
-                "total_resistance": 28
+                "total_resistance": 7
+            },
+            {
+                "item_id": 19325,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7508
+                ],
+                "item_name": "Don Julio's Band",
+                "item_quality": "4",
+                "total_resistance": 0
             },
             {
                 "item_id": 227455,
                 "item_level": 65,
                 "bonuses": [
                     0,
-                    7507
+                    7515
                 ],
                 "item_name": "Ocean's Breeze",
                 "item_quality": "4",
                 "total_resistance": 20
             },
             {
-                "item_id": 228080,
+                "item_id": 228078,
                 "item_level": 62,
-                "bonuses": [
-                    0,
-                    7555
-                ],
-                "item_name": "Resin Loop",
+                "bonuses": [],
+                "item_name": "Accursed Chalice",
                 "item_quality": "3",
                 "total_resistance": 0
-            },
-            {
-                "item_id": 228163,
-                "item_level": 74,
-                "bonuses": [],
-                "item_name": "Broodmother's Brooch",
-                "item_quality": "4",
-                "total_resistance": 15
             },
             {
                 "item_id": 228722,
@@ -2363,52 +709,591 @@
                 "item_level": 61,
                 "bonuses": [
                     7564,
-                    7261
+                    7268
                 ],
                 "item_name": "Wildfire Cape",
                 "item_quality": "3",
                 "total_resistance": 40
             },
             {
-                "item_id": 228535,
-                "item_level": 62,
+                "item_id": 228299,
+                "item_level": 77,
                 "bonuses": [
                     1900,
-                    7141
+                    7569
                 ],
-                "item_name": "Bone Slicing Hatchet",
+                "item_name": "Spinal Reaper",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228177,
+                "item_level": 65,
+                "bonuses": [],
+                "item_name": "Totem of Raging Fire",
                 "item_quality": "3",
                 "total_resistance": 0
             },
             {
-                "item_id": 228169,
-                "item_level": 60,
-                "bonuses": [
-                    1900,
-                    0
-                ],
-                "item_name": "The Attitude Adjustor",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228165,
-                "item_level": 74,
+                "item_id": 19505,
+                "item_level": 20,
                 "bonuses": [],
-                "item_name": "Dragonslayer's Javelin",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 5976,
-                "item_level": 1,
-                "bonuses": [],
-                "item_name": "Guild Tabard",
+                "item_name": "Warsong Battle Tabard",
                 "item_quality": "1",
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 200
+        "total_resistance": 161
+    },
+    "Poptard": {
+        "gear": [
+            {
+                "item_id": 226533,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6994
+                ],
+                "item_name": "Giantstalker's Helmet",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 228685,
+                "item_level": 74,
+                "bonuses": [],
+                "item_name": "Onyxia Tooth Pendant",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226527,
+                "item_level": 66,
+                "bonuses": [
+                    7328,
+                    0
+                ],
+                "item_name": "Giantstalker's Epaulets",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 11840,
+                "item_level": 55,
+                "bonuses": [],
+                "item_name": "Master Builder's Shirt",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226534,
+                "item_level": 66,
+                "bonuses": [
+                    928,
+                    6901
+                ],
+                "item_name": "Giantstalker's Breastplate",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226529,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6890
+                ],
+                "item_name": "Giantstalker's Belt",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 226532,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6995
+                ],
+                "item_name": "Giantstalker's Leggings",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 226531,
+                "item_level": 66,
+                "bonuses": [
+                    911,
+                    6895
+                ],
+                "item_name": "Giantstalker's Boots",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226530,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7108
+                ],
+                "item_name": "Giantstalker's Bracers",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226528,
+                "item_level": 66,
+                "bonuses": [
+                    1887,
+                    6900
+                ],
+                "item_name": "Giantstalker's Gloves",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 228469,
+                "item_level": 61,
+                "bonuses": [],
+                "item_name": "Tarnished Elven Ring",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227455,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7512
+                ],
+                "item_name": "Ocean's Breeze",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 228084,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Miniaturized Fire Extinguisher",
+                "item_quality": "3",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 13965,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Blackhand's Breadth",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228290,
+                "item_level": 77,
+                "bonuses": [
+                    7564,
+                    7264
+                ],
+                "item_name": "Cloak of the Shrouded Mists",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 22314,
+                "item_level": 61,
+                "bonuses": [
+                    2646,
+                    7141
+                ],
+                "item_name": "Huntsman's Harpoon",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228334,
+                "item_level": 75,
+                "bonuses": [
+                    664,
+                    0
+                ],
+                "item_name": "Rhok'delar, Longbow of the Ancient Keepers",
+                "item_quality": "4",
+                "total_resistance": 0
+            }
+        ],
+        "total_resistance": 181
+    },
+    "Nemesakos": {
+        "gear": [
+            {
+                "item_id": 226536,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6994
+                ],
+                "item_name": "Giantstalker's Guise",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 228685,
+                "item_level": 74,
+                "bonuses": [],
+                "item_name": "Onyxia Tooth Pendant",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226527,
+                "item_level": 66,
+                "bonuses": [
+                    7328,
+                    0
+                ],
+                "item_name": "Giantstalker's Epaulets",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 18231,
+                "item_level": 1,
+                "bonuses": [],
+                "item_name": "Sleeveless T-Shirt",
+                "item_quality": "0",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226534,
+                "item_level": 66,
+                "bonuses": [
+                    1891,
+                    6901
+                ],
+                "item_name": "Giantstalker's Breastplate",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226529,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6890
+                ],
+                "item_name": "Giantstalker's Belt",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 226532,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6995
+                ],
+                "item_name": "Giantstalker's Leggings",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 226531,
+                "item_level": 66,
+                "bonuses": [
+                    1887,
+                    6895
+                ],
+                "item_name": "Giantstalker's Boots",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226530,
+                "item_level": 66,
+                "bonuses": [
+                    1886,
+                    7108
+                ],
+                "item_name": "Giantstalker's Bracers",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226528,
+                "item_level": 66,
+                "bonuses": [
+                    1887,
+                    6900
+                ],
+                "item_name": "Giantstalker's Gloves",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 228469,
+                "item_level": 61,
+                "bonuses": [
+                    0,
+                    7517
+                ],
+                "item_name": "Tarnished Elven Ring",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228469,
+                "item_level": 61,
+                "bonuses": [
+                    0,
+                    7515
+                ],
+                "item_name": "Tarnished Elven Ring",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227990,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Hand of Injustice",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 18473,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Royal Seal of Eldre'Thalas",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 228290,
+                "item_level": 77,
+                "bonuses": [
+                    7564,
+                    7264
+                ],
+                "item_name": "Cloak of the Shrouded Mists",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 227833,
+                "item_level": 70,
+                "bonuses": [
+                    2646,
+                    2627
+                ],
+                "item_name": "Glaive of Obsidian Fury",
+                "item_quality": "4",
+                "total_resistance": 15
+            },
+            {
+                "item_id": 228334,
+                "item_level": 75,
+                "bonuses": [
+                    664,
+                    0
+                ],
+                "item_name": "Rhok'delar, Longbow of the Ancient Keepers",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 15199,
+                "item_level": 40,
+                "bonuses": [],
+                "item_name": "Stone Guard's Herald",
+                "item_quality": "1",
+                "total_resistance": 0
+            }
+        ],
+        "total_resistance": 166
+    },
+    "Dusypestryer": {
+        "gear": [
+            {
+                "item_id": 226622,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6987
+                ],
+                "item_name": "Earthfury Visor",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 16309,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Drakefire Amulet",
+                "item_quality": "3",
+                "total_resistance": 15
+            },
+            {
+                "item_id": 226624,
+                "item_level": 66,
+                "bonuses": [],
+                "item_name": "Earthfury Mantle",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 154,
+                "item_level": 1,
+                "bonuses": [],
+                "item_name": "Primitive Mantle",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226619,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6878
+                ],
+                "item_name": "Earthfury Ringmail",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226625,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6980
+                ],
+                "item_name": "Earthfury Cord",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 226623,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6877
+                ],
+                "item_name": "Earthfury Leggings",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 226620,
+                "item_level": 66,
+                "bonuses": [
+                    911,
+                    6882
+                ],
+                "item_name": "Earthfury Walkers",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226626,
+                "item_level": 66,
+                "bonuses": [
+                    1883,
+                    7126
+                ],
+                "item_name": "Earthfury Wristbands",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226621,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6883
+                ],
+                "item_name": "Earthfury Hands",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 228046,
+                "item_level": 63,
+                "bonuses": [
+                    0,
+                    7515
+                ],
+                "item_name": "Don Mauricio's Band of Domination",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227279,
+                "item_level": 63,
+                "bonuses": [
+                    0,
+                    7517
+                ],
+                "item_name": "Loop of the Magister",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228084,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Miniaturized Fire Extinguisher",
+                "item_quality": "3",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 228081,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Germinating Poisonseed",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 12905,
+                "item_level": 61,
+                "bonuses": [
+                    7564,
+                    7268
+                ],
+                "item_name": "Wildfire Cape",
+                "item_quality": "3",
+                "total_resistance": 40
+            },
+            {
+                "item_id": 227886,
+                "item_level": 69,
+                "bonuses": [
+                    2504,
+                    7567
+                ],
+                "item_name": "Skyrider's Masterwork Stormhammer",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228142,
+                "item_level": 66,
+                "bonuses": [
+                    7603,
+                    7602
+                ],
+                "item_name": "Earth and Fire",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228176,
+                "item_level": 65,
+                "bonuses": [],
+                "item_name": "Totem of Thunder",
+                "item_quality": "3",
+                "total_resistance": 0
+            }
+        ],
+        "total_resistance": 176
     },
     "Warrin": {
         "gear": [
@@ -2432,15 +1317,15 @@
                 "total_resistance": 15
             },
             {
-                "item_id": 20212,
-                "item_level": 65,
+                "item_id": 226491,
+                "item_level": 66,
                 "bonuses": [
                     7328,
                     0
                 ],
-                "item_name": "Defiler's Plate Spaulders",
+                "item_name": "Shoulderplates of Might",
                 "item_quality": "4",
-                "total_resistance": 0
+                "total_resistance": 7
             },
             {
                 "item_id": 6125,
@@ -2495,15 +1380,15 @@
                 "total_resistance": 5
             },
             {
-                "item_id": 227820,
-                "item_level": 71,
+                "item_id": 226484,
+                "item_level": 66,
                 "bonuses": [
-                    927,
+                    1885,
                     7069
                 ],
-                "item_name": "Tempered Dark Iron Bracers",
+                "item_name": "Bracers of Might",
                 "item_quality": "4",
-                "total_resistance": 20
+                "total_resistance": 5
             },
             {
                 "item_id": 226486,
@@ -2517,17 +1402,6 @@
                 "total_resistance": 7
             },
             {
-                "item_id": 227455,
-                "item_level": 65,
-                "bonuses": [
-                    0,
-                    7507
-                ],
-                "item_name": "Ocean's Breeze",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
                 "item_id": 19325,
                 "item_level": 65,
                 "bonuses": [
@@ -2537,6 +1411,17 @@
                 "item_name": "Don Julio's Band",
                 "item_quality": "4",
                 "total_resistance": 0
+            },
+            {
+                "item_id": 227455,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7509
+                ],
+                "item_name": "Ocean's Breeze",
+                "item_quality": "4",
+                "total_resistance": 20
             },
             {
                 "item_id": 228686,
@@ -2555,24 +1440,24 @@
                 "total_resistance": 15
             },
             {
-                "item_id": 12905,
-                "item_level": 61,
+                "item_id": 228292,
+                "item_level": 77,
                 "bonuses": [
                     7564,
                     7263
                 ],
-                "item_name": "Wildfire Cape",
-                "item_quality": "3",
-                "total_resistance": 40
+                "item_name": "Dragon's Blood Cape",
+                "item_quality": "4",
+                "total_resistance": 25
             },
             {
-                "item_id": 228679,
-                "item_level": 74,
+                "item_id": 228397,
+                "item_level": 66,
                 "bonuses": [
                     1900,
                     7141
                 ],
-                "item_name": "Quel'Serrar",
+                "item_name": "Empyrean Demolisher",
                 "item_quality": "4",
                 "total_resistance": 0
             },
@@ -2588,11 +1473,11 @@
                 "total_resistance": 10
             },
             {
-                "item_id": 228050,
-                "item_level": 58,
+                "item_id": 228165,
+                "item_level": 74,
                 "bonuses": [],
-                "item_name": "Satyr's Bow",
-                "item_quality": "3",
+                "item_name": "Dragonslayer's Javelin",
+                "item_quality": "4",
                 "total_resistance": 0
             },
             {
@@ -2604,7 +1489,7 @@
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 252
+        "total_resistance": 229
     },
     "Jwhistle": {
         "gear": [
@@ -2631,12 +1516,12 @@
                 "item_id": 226576,
                 "item_level": 66,
                 "bonuses": [
-                    2483,
+                    7563,
                     0
                 ],
                 "item_name": "Mantle of Prophecy",
                 "item_quality": "4",
-                "total_resistance": 7
+                "total_resistance": 22
             },
             {
                 "item_id": 53,
@@ -2751,34 +1636,34 @@
                 "total_resistance": 15
             },
             {
-                "item_id": 227970,
-                "item_level": 58,
+                "item_id": 228280,
+                "item_level": 71,
                 "bonuses": [
                     7564,
                     6742
                 ],
-                "item_name": "Cape of the Fire Salamander",
-                "item_quality": "3",
-                "total_resistance": 32
+                "item_name": "Fireproof Cloak",
+                "item_quality": "4",
+                "total_resistance": 38
             },
             {
                 "item_id": 228168,
                 "item_level": 65,
                 "bonuses": [
                     2568,
-                    7141
+                    2627
                 ],
                 "item_name": "Goblin Gear Grinder",
                 "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 13524,
-                "item_level": 62,
+                "item_id": 227984,
+                "item_level": 63,
                 "bonuses": [],
-                "item_name": "Skull of Burning Shadows",
+                "item_name": "Thaurissan's Royal Scepter",
                 "item_quality": "3",
-                "total_resistance": 15
+                "total_resistance": 0
             },
             {
                 "item_id": 228187,
@@ -2789,197 +1674,20 @@
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 194
+        "total_resistance": 200
     },
-    "Orgknight": {
+    "Djmulis": {
         "gear": [
             {
-                "item_id": 216922,
+                "item_id": 226446,
                 "item_level": 66,
                 "bonuses": [
                     1505,
-                    7114
+                    7131
                 ],
-                "item_name": "Felheart Crown",
+                "item_name": "Nightslayer Cover",
                 "item_quality": "4",
                 "total_resistance": 30
-            },
-            {
-                "item_id": 16309,
-                "item_level": 63,
-                "bonuses": [],
-                "item_name": "Drakefire Amulet",
-                "item_quality": "3",
-                "total_resistance": 15
-            },
-            {
-                "item_id": 216925,
-                "item_level": 66,
-                "bonuses": [
-                    2483,
-                    0
-                ],
-                "item_name": "Felheart Mantle",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 14617,
-                "item_level": 1,
-                "bonuses": [],
-                "item_name": "Sawbones Shirt",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 216924,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6811
-                ],
-                "item_name": "Felheart Embrace",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 216919,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    7056
-                ],
-                "item_name": "Felheart Sash",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 216923,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    7039
-                ],
-                "item_name": "Felheart Leggings",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 216918,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6957
-                ],
-                "item_name": "Felheart Boots",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 216920,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    7117
-                ],
-                "item_name": "Felheart Bindings",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 216921,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    6816
-                ],
-                "item_name": "Felheart Grips",
-                "item_quality": "4",
-                "total_resistance": 7
-            },
-            {
-                "item_id": 228242,
-                "item_level": 66,
-                "bonuses": [
-                    0,
-                    7515
-                ],
-                "item_name": "Heavy Dark Iron Ring",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 18813,
-                "item_level": 73,
-                "bonuses": [
-                    0,
-                    7555
-                ],
-                "item_name": "Ring of Binding",
-                "item_quality": "4",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 2802,
-                "item_level": 43,
-                "bonuses": [],
-                "item_name": "Blazing Emblem",
-                "item_quality": "3",
-                "total_resistance": 15
-            },
-            {
-                "item_id": 18467,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Royal Seal of Eldre'Thalas",
-                "item_quality": "3",
-                "total_resistance": 10
-            },
-            {
-                "item_id": 15138,
-                "item_level": 60,
-                "bonuses": [
-                    7564,
-                    7590
-                ],
-                "item_name": "Onyxia Scale Cloak",
-                "item_quality": "3",
-                "total_resistance": 36
-            },
-            {
-                "item_id": 228356,
-                "item_level": 67,
-                "bonuses": [
-                    0,
-                    2627
-                ],
-                "item_name": "Amberseal Keeper",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 228262,
-                "item_level": 66,
-                "bonuses": [],
-                "item_name": "Crimson Shocker",
-                "item_quality": "4",
-                "total_resistance": 10
-            }
-        ],
-        "total_resistance": 202
-    },
-    "Nemesakos": {
-        "gear": [
-            {
-                "item_id": 227067,
-                "item_level": 71,
-                "bonuses": [
-                    1505,
-                    6994
-                ],
-                "item_name": "Champion's Chain Helm",
-                "item_quality": "3",
-                "total_resistance": 20
             },
             {
                 "item_id": 228685,
@@ -2990,122 +1698,106 @@
                 "total_resistance": 10
             },
             {
-                "item_id": 227069,
-                "item_level": 71,
+                "item_id": 226444,
+                "item_level": 66,
                 "bonuses": [
                     7328,
                     0
                 ],
-                "item_name": "Champion's Chain Shoulders",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Nightslayer Shoulder Pads",
+                "item_quality": "4",
+                "total_resistance": 7
             },
             {
-                "item_id": 18231,
-                "item_level": 1,
-                "bonuses": [],
-                "item_name": "Sleeveless T-Shirt",
-                "item_quality": "0",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226534,
+                "item_id": 226447,
                 "item_level": 66,
                 "bonuses": [
-                    0,
-                    6901
+                    1891,
+                    6708
                 ],
-                "item_name": "Giantstalker's Breastplate",
+                "item_name": "Nightslayer Chestpiece",
                 "item_quality": "4",
                 "total_resistance": 10
             },
             {
-                "item_id": 226529,
-                "item_level": 66,
+                "item_id": 19163,
+                "item_level": 70,
                 "bonuses": [
                     0,
-                    6890
+                    7018
                 ],
-                "item_name": "Giantstalker's Belt",
+                "item_name": "Molten Belt",
                 "item_quality": "4",
-                "total_resistance": 7
+                "total_resistance": 12
             },
             {
-                "item_id": 226532,
-                "item_level": 66,
+                "item_id": 227847,
+                "item_level": 65,
                 "bonuses": [
                     1505,
-                    6995
+                    6787
                 ],
-                "item_name": "Giantstalker's Leggings",
+                "item_name": "Devilcore Leggings",
                 "item_quality": "4",
-                "total_resistance": 30
+                "total_resistance": 40
             },
             {
-                "item_id": 226531,
+                "item_id": 226443,
                 "item_level": 66,
                 "bonuses": [
                     1887,
-                    6895
+                    7019
                 ],
-                "item_name": "Giantstalker's Boots",
+                "item_name": "Nightslayer Boots",
                 "item_quality": "4",
                 "total_resistance": 5
             },
             {
-                "item_id": 226530,
+                "item_id": 226442,
                 "item_level": 66,
                 "bonuses": [
-                    1886,
-                    7108
+                    1885,
+                    7133
                 ],
-                "item_name": "Giantstalker's Bracers",
+                "item_name": "Nightslayer Bracelets",
                 "item_quality": "4",
                 "total_resistance": 5
             },
             {
-                "item_id": 226528,
-                "item_level": 66,
+                "item_id": 227848,
+                "item_level": 65,
                 "bonuses": [
-                    1887,
-                    6899
+                    0,
+                    6715
                 ],
-                "item_name": "Giantstalker's Gloves",
+                "item_name": "Devilcore Gauntlets",
                 "item_quality": "4",
-                "total_resistance": 7
+                "total_resistance": 15
             },
             {
                 "item_id": 227455,
                 "item_level": 65,
                 "bonuses": [
                     0,
-                    7517
+                    7510
                 ],
                 "item_name": "Ocean's Breeze",
                 "item_quality": "4",
                 "total_resistance": 20
             },
             {
-                "item_id": 228469,
-                "item_level": 61,
+                "item_id": 227280,
+                "item_level": 65,
                 "bonuses": [
                     0,
-                    7515
+                    7517
                 ],
-                "item_name": "Tarnished Elven Ring",
-                "item_quality": "3",
+                "item_name": "Craft of the Shadows",
+                "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 227915,
-                "item_level": 65,
-                "bonuses": [],
-                "item_name": "Duke's Domain",
-                "item_quality": "4",
-                "total_resistance": 20
-            },
-            {
-                "item_id": 18473,
+                "item_id": 228464,
                 "item_level": 62,
                 "bonuses": [],
                 "item_name": "Royal Seal of Eldre'Thalas",
@@ -3113,48 +1805,241 @@
                 "total_resistance": 10
             },
             {
+                "item_id": 228722,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Hand of Justice",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
                 "item_id": 228290,
                 "item_level": 77,
                 "bonuses": [
                     7564,
-                    7264
+                    6911
                 ],
                 "item_name": "Cloak of the Shrouded Mists",
                 "item_quality": "4",
                 "total_resistance": 30
             },
             {
-                "item_id": 227833,
-                "item_level": 70,
+                "item_id": 228757,
+                "item_level": 63,
                 "bonuses": [
-                    2646,
-                    2627
+                    1900,
+                    7141
                 ],
-                "item_name": "Glaive of Obsidian Fury",
-                "item_quality": "4",
-                "total_resistance": 15
-            },
-            {
-                "item_id": 228334,
-                "item_level": 75,
-                "bonuses": [
-                    664,
-                    0
-                ],
-                "item_name": "Rhok'delar, Longbow of the Ancient Keepers",
+                "item_name": "Felstriker",
                 "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 15199,
-                "item_level": 40,
+                "item_id": 228701,
+                "item_level": 71,
+                "bonuses": [
+                    1900,
+                    2506
+                ],
+                "item_name": "Core Hound Tooth",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228050,
+                "item_level": 58,
                 "bonuses": [],
-                "item_name": "Stone Guard's Herald",
+                "item_name": "Satyr's Bow",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 20131,
+                "item_level": 20,
+                "bonuses": [],
+                "item_name": "Battle Tabard of the Defilers",
                 "item_quality": "1",
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 189
+        "total_resistance": 194
+    },
+    "Player-5826-022FBA3B": {
+        "gear": [
+            {
+                "item_id": 226549,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    7114
+                ],
+                "item_name": "Felheart Horns",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 22149,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Beads of Ogre Mojo",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227830,
+                "item_level": 71,
+                "bonuses": [
+                    2483,
+                    0
+                ],
+                "item_name": "Fine Flarecore Mantle",
+                "item_quality": "4",
+                "total_resistance": 25
+            },
+            {
+                "item_id": 4335,
+                "item_level": 37,
+                "bonuses": [],
+                "item_name": "Rich Purple Silk Shirt",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227831,
+                "item_level": 70,
+                "bonuses": [
+                    1891,
+                    6811
+                ],
+                "item_name": "Fine Flarecore Robe",
+                "item_quality": "4",
+                "total_resistance": 25
+            },
+            {
+                "item_id": 226551,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7056
+                ],
+                "item_name": "Felheart Belt",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 19165,
+                "item_level": 70,
+                "bonuses": [
+                    1505,
+                    7038
+                ],
+                "item_name": "Flarecore Leggings",
+                "item_quality": "4",
+                "total_resistance": 36
+            },
+            {
+                "item_id": 18735,
+                "item_level": 62,
+                "bonuses": [
+                    911,
+                    7592
+                ],
+                "item_name": "Maleki's Footwraps",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226553,
+                "item_level": 66,
+                "bonuses": [
+                    1883,
+                    7116
+                ],
+                "item_name": "Felheart Bracers",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226552,
+                "item_level": 66,
+                "bonuses": [
+                    930,
+                    6814
+                ],
+                "item_name": "Felheart Gloves",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 227282,
+                "item_level": 63,
+                "bonuses": [
+                    0,
+                    7515
+                ],
+                "item_name": "Ring of the Dreaded Mist",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227279,
+                "item_level": 63,
+                "bonuses": [
+                    0,
+                    7518
+                ],
+                "item_name": "Loop of the Magister",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 13968,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Eye of the Beast",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 18467,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Royal Seal of Eldre'Thalas",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 227869,
+                "item_level": 62,
+                "bonuses": [
+                    7564,
+                    7590
+                ],
+                "item_name": "Brilliant Chromatic Cloak",
+                "item_quality": "4",
+                "total_resistance": 28
+            },
+            {
+                "item_id": 228166,
+                "item_level": 75,
+                "bonuses": [
+                    2504,
+                    2627
+                ],
+                "item_name": "Key to the City",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 220604,
+                "item_level": 53,
+                "bonuses": [],
+                "item_name": "Nightmare Trophy",
+                "item_quality": "4",
+                "total_resistance": 0
+            }
+        ],
+        "total_resistance": 173
     },
     "Minto": {
         "gear": [
@@ -3170,12 +2055,12 @@
                 "total_resistance": 30
             },
             {
-                "item_id": 228584,
-                "item_level": 61,
+                "item_id": 228685,
+                "item_level": 74,
                 "bonuses": [],
-                "item_name": "Emberfury Talisman",
-                "item_quality": "3",
-                "total_resistance": 7
+                "item_name": "Onyxia Tooth Pendant",
+                "item_quality": "4",
+                "total_resistance": 10
             },
             {
                 "item_id": 226492,
@@ -3197,15 +2082,15 @@
                 "total_resistance": 0
             },
             {
-                "item_id": 226862,
-                "item_level": 60,
+                "item_id": 226494,
+                "item_level": 66,
                 "bonuses": [
-                    928,
+                    1891,
                     7035
                 ],
-                "item_name": "Breastplate of Heroism",
+                "item_name": "Hauberk of Might",
                 "item_quality": "4",
-                "total_resistance": 0
+                "total_resistance": 10
             },
             {
                 "item_id": 227814,
@@ -3219,15 +2104,15 @@
                 "total_resistance": 0
             },
             {
-                "item_id": 227847,
-                "item_level": 65,
+                "item_id": 226493,
+                "item_level": 66,
                 "bonuses": [
                     1505,
                     7036
                 ],
-                "item_name": "Devilcore Leggings",
+                "item_name": "Leggings of Might",
                 "item_quality": "4",
-                "total_resistance": 40
+                "total_resistance": 30
             },
             {
                 "item_id": 228924,
@@ -3241,26 +2126,26 @@
                 "total_resistance": 30
             },
             {
-                "item_id": 227820,
-                "item_level": 71,
+                "item_id": 226499,
+                "item_level": 66,
                 "bonuses": [
                     1885,
                     7068
                 ],
-                "item_name": "Tempered Dark Iron Bracers",
+                "item_name": "Armguards of Might",
                 "item_quality": "4",
-                "total_resistance": 20
+                "total_resistance": 5
             },
             {
-                "item_id": 227848,
-                "item_level": 65,
+                "item_id": 226497,
+                "item_level": 66,
                 "bonuses": [
                     931,
                     6948
                 ],
-                "item_name": "Devilcore Gauntlets",
+                "item_name": "Hands of Might",
                 "item_quality": "4",
-                "total_resistance": 15
+                "total_resistance": 7
             },
             {
                 "item_id": 228261,
@@ -3301,13 +2186,13 @@
                 "total_resistance": 0
             },
             {
-                "item_id": 20068,
-                "item_level": 65,
+                "item_id": 228102,
+                "item_level": 71,
                 "bonuses": [
                     7564,
                     7262
                 ],
-                "item_name": "Deathguard's Cloak",
+                "item_name": "Majordomo's Drape",
                 "item_quality": "4",
                 "total_resistance": 20
             },
@@ -3350,7 +2235,1117 @@
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 169
+        "total_resistance": 149
+    },
+    "Noxt": {
+        "gear": [
+            {
+                "item_id": 226584,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6933
+                ],
+                "item_name": "Crown of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 16309,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Drakefire Amulet",
+                "item_quality": "3",
+                "total_resistance": 15
+            },
+            {
+                "item_id": 226581,
+                "item_level": 66,
+                "bonuses": [],
+                "item_name": "Shoulderpads of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 221316,
+                "item_level": 55,
+                "bonuses": [],
+                "item_name": "Premo's Poise-Demanding Uniform",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226582,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7024
+                ],
+                "item_name": "Garments of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226580,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7110
+                ],
+                "item_name": "Belt of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 227839,
+                "item_level": 71,
+                "bonuses": [
+                    1505,
+                    6744
+                ],
+                "item_name": "Fine Flarecore Leggings",
+                "item_quality": "4",
+                "total_resistance": 40
+            },
+            {
+                "item_id": 226586,
+                "item_level": 66,
+                "bonuses": [
+                    911,
+                    7541
+                ],
+                "item_name": "Sandals of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226579,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7112
+                ],
+                "item_name": "Wristwraps of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226585,
+                "item_level": 66,
+                "bonuses": [
+                    18,
+                    6934
+                ],
+                "item_name": "Hands of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 228085,
+                "item_level": 62,
+                "bonuses": [
+                    0,
+                    7518
+                ],
+                "item_name": "Phaseshifted Legion Band",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228243,
+                "item_level": 71,
+                "bonuses": [
+                    0,
+                    7518
+                ],
+                "item_name": "Ring of Spell Power",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 2802,
+                "item_level": 43,
+                "bonuses": [],
+                "item_name": "Blazing Emblem",
+                "item_quality": "3",
+                "total_resistance": 15
+            },
+            {
+                "item_id": 228255,
+                "item_level": 71,
+                "bonuses": [],
+                "item_name": "Talisman of Ephemeral Power",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 15138,
+                "item_level": 60,
+                "bonuses": [
+                    7564,
+                    6749
+                ],
+                "item_name": "Onyxia Scale Cloak",
+                "item_quality": "3",
+                "total_resistance": 36
+            },
+            {
+                "item_id": 227886,
+                "item_level": 69,
+                "bonuses": [
+                    0,
+                    2627
+                ],
+                "item_name": "Skyrider's Masterwork Stormhammer",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 11904,
+                "item_level": 56,
+                "bonuses": [],
+                "item_name": "Spirit of Aquementas",
+                "item_quality": "2",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228262,
+                "item_level": 66,
+                "bonuses": [],
+                "item_name": "Crimson Shocker",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 19505,
+                "item_level": 20,
+                "bonuses": [],
+                "item_name": "Warsong Battle Tabard",
+                "item_quality": "1",
+                "total_resistance": 0
+            }
+        ],
+        "total_resistance": 187
+    },
+    "Inå": {
+        "gear": [
+            {
+                "item_id": 226564,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6726
+                ],
+                "item_name": "Arcanist Headdress",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 16309,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Drakefire Amulet",
+                "item_quality": "3",
+                "total_resistance": 15
+            },
+            {
+                "item_id": 226560,
+                "item_level": 66,
+                "bonuses": [
+                    2483,
+                    0
+                ],
+                "item_name": "Arcanist Mantle",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 221316,
+                "item_level": 55,
+                "bonuses": [],
+                "item_name": "Premo's Poise-Demanding Uniform",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226559,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6922
+                ],
+                "item_name": "Arcanist Robes",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226570,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6733
+                ],
+                "item_name": "Arcanist Cord",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 226565,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6927
+                ],
+                "item_name": "Arcanist Pants",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 226557,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7022
+                ],
+                "item_name": "Arcanist Boots",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226558,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7561
+                ],
+                "item_name": "Arcanist Bindings",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226569,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6728
+                ],
+                "item_name": "Arcanist Handguards",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 227454,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7514
+                ],
+                "item_name": "Tidal Loop",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 220628,
+                "item_level": 55,
+                "bonuses": [
+                    0,
+                    7514
+                ],
+                "item_name": "Drakeclaw Band of the Harbinger",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227972,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Burst of Knowledge",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228466,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Royal Seal of Eldre'Thalas",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 227970,
+                "item_level": 58,
+                "bonuses": [
+                    7564,
+                    6723
+                ],
+                "item_name": "Cape of the Fire Salamander",
+                "item_quality": "3",
+                "total_resistance": 32
+            },
+            {
+                "item_id": 228166,
+                "item_level": 75,
+                "bonuses": [
+                    2504,
+                    2627
+                ],
+                "item_name": "Key to the City",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228262,
+                "item_level": 66,
+                "bonuses": [],
+                "item_name": "Crimson Shocker",
+                "item_quality": "4",
+                "total_resistance": 10
+            }
+        ],
+        "total_resistance": 188
+    },
+    "Excup": {
+        "gear": [
+            {
+                "item_id": 226622,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6987
+                ],
+                "item_name": "Earthfury Visor",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 228289,
+                "item_level": 77,
+                "bonuses": [],
+                "item_name": "Choker of the Fire Lord",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226624,
+                "item_level": 66,
+                "bonuses": [
+                    7563,
+                    0
+                ],
+                "item_name": "Earthfury Mantle",
+                "item_quality": "4",
+                "total_resistance": 22
+            },
+            {
+                "item_id": 2579,
+                "item_level": 14,
+                "bonuses": [],
+                "item_name": "Green Linen Shirt",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227004,
+                "item_level": 60,
+                "bonuses": [
+                    0,
+                    6878
+                ],
+                "item_name": "Vest of The Five Thunders",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226625,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6980
+                ],
+                "item_name": "Earthfury Cord",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 227839,
+                "item_level": 71,
+                "bonuses": [
+                    1505,
+                    6880
+                ],
+                "item_name": "Fine Flarecore Leggings",
+                "item_quality": "4",
+                "total_resistance": 40
+            },
+            {
+                "item_id": 226620,
+                "item_level": 66,
+                "bonuses": [
+                    929,
+                    6882
+                ],
+                "item_name": "Earthfury Walkers",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226626,
+                "item_level": 66,
+                "bonuses": [
+                    1883,
+                    7126
+                ],
+                "item_name": "Earthfury Wristbands",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226621,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6883
+                ],
+                "item_name": "Earthfury Hands",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 228687,
+                "item_level": 74,
+                "bonuses": [
+                    0,
+                    7515
+                ],
+                "item_name": "Dragonslayer's Signet",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 228683,
+                "item_level": 63,
+                "bonuses": [
+                    0,
+                    7517
+                ],
+                "item_name": "Rune Band of Wizardry",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 18471,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Royal Seal of Eldre'Thalas",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 228081,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Germinating Poisonseed",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228100,
+                "item_level": 77,
+                "bonuses": [
+                    7564,
+                    7268
+                ],
+                "item_name": "Drape of the Fire Lord",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 227886,
+                "item_level": 69,
+                "bonuses": [
+                    2504,
+                    7567
+                ],
+                "item_name": "Skyrider's Masterwork Stormhammer",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228106,
+                "item_level": 62,
+                "bonuses": [
+                    7603,
+                    7602
+                ],
+                "item_name": "Shield of Life and Death",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228176,
+                "item_level": 65,
+                "bonuses": [],
+                "item_name": "Totem of Thunder",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 19031,
+                "item_level": 20,
+                "bonuses": [],
+                "item_name": "Frostwolf Battle Tabard",
+                "item_quality": "1",
+                "total_resistance": 0
+            }
+        ],
+        "total_resistance": 166
+    },
+    "Dunderklumpe": {
+        "gear": [
+            {
+                "item_id": 226947,
+                "item_level": 60,
+                "bonuses": [
+                    1505,
+                    7109
+                ],
+                "item_name": "Virtuous Crown",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 228067,
+                "item_level": 61,
+                "bonuses": [],
+                "item_name": "Elder Magus Pendant",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226576,
+                "item_level": 66,
+                "bonuses": [
+                    7563,
+                    0
+                ],
+                "item_name": "Mantle of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 22
+            },
+            {
+                "item_id": 221316,
+                "item_level": 55,
+                "bonuses": [],
+                "item_name": "Premo's Poise-Demanding Uniform",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226945,
+                "item_level": 60,
+                "bonuses": [
+                    1893,
+                    6936
+                ],
+                "item_name": "Virtuous Robe",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226577,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7026
+                ],
+                "item_name": "Girdle of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 226574,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    6740
+                ],
+                "item_name": "Pants of Prophecy",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 226952,
+                "item_level": 60,
+                "bonuses": [
+                    911,
+                    6747
+                ],
+                "item_name": "Virtuous Sandals",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226949,
+                "item_level": 65,
+                "bonuses": [
+                    2566,
+                    7589
+                ],
+                "item_name": "Virtuous Bracers",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227823,
+                "item_level": 71,
+                "bonuses": [
+                    0,
+                    6752
+                ],
+                "item_name": "Fine Flarecore Gloves",
+                "item_quality": "4",
+                "total_resistance": 25
+            },
+            {
+                "item_id": 227454,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7518
+                ],
+                "item_name": "Tidal Loop",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 16058,
+                "item_level": 63,
+                "bonuses": [
+                    0,
+                    7518
+                ],
+                "item_name": "Fordring's Seal",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228084,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Miniaturized Fire Extinguisher",
+                "item_quality": "3",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 18469,
+                "item_level": 62,
+                "bonuses": [],
+                "item_name": "Royal Seal of Eldre'Thalas",
+                "item_quality": "3",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 12905,
+                "item_level": 61,
+                "bonuses": [
+                    7564,
+                    6742
+                ],
+                "item_name": "Wildfire Cape",
+                "item_quality": "3",
+                "total_resistance": 40
+            },
+            {
+                "item_id": 228335,
+                "item_level": 75,
+                "bonuses": [
+                    2505,
+                    2627
+                ],
+                "item_name": "Benediction",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228187,
+                "item_level": 60,
+                "bonuses": [],
+                "item_name": "Stick of the South Sea",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 20131,
+                "item_level": 20,
+                "bonuses": [],
+                "item_name": "Battle Tabard of the Defilers",
+                "item_quality": "1",
+                "total_resistance": 0
+            }
+        ],
+        "total_resistance": 204
+    },
+    "Orgknight": {
+        "gear": [
+            {
+                "item_id": 216922,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    7114
+                ],
+                "item_name": "Felheart Crown",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 16309,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Drakefire Amulet",
+                "item_quality": "3",
+                "total_resistance": 15
+            },
+            {
+                "item_id": 216925,
+                "item_level": 66,
+                "bonuses": [
+                    7563,
+                    0
+                ],
+                "item_name": "Felheart Mantle",
+                "item_quality": "4",
+                "total_resistance": 22
+            },
+            {
+                "item_id": 14617,
+                "item_level": 1,
+                "bonuses": [],
+                "item_name": "Sawbones Shirt",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 216924,
+                "item_level": 66,
+                "bonuses": [
+                    2503,
+                    6811
+                ],
+                "item_name": "Felheart Embrace",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 216919,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    7056
+                ],
+                "item_name": "Felheart Sash",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 216923,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    7039
+                ],
+                "item_name": "Felheart Leggings",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 216918,
+                "item_level": 66,
+                "bonuses": [
+                    911,
+                    6957
+                ],
+                "item_name": "Felheart Boots",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 216920,
+                "item_level": 66,
+                "bonuses": [
+                    1886,
+                    7117
+                ],
+                "item_name": "Felheart Bindings",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 216921,
+                "item_level": 66,
+                "bonuses": [
+                    2503,
+                    6816
+                ],
+                "item_name": "Felheart Grips",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 227454,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7515
+                ],
+                "item_name": "Tidal Loop",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 18813,
+                "item_level": 73,
+                "bonuses": [
+                    0,
+                    7555
+                ],
+                "item_name": "Ring of Binding",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 13966,
+                "item_level": 63,
+                "bonuses": [],
+                "item_name": "Mark of Tyranny",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228686,
+                "item_level": 74,
+                "bonuses": [],
+                "item_name": "Onyxia Blood Talisman",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 15138,
+                "item_level": 60,
+                "bonuses": [
+                    7564,
+                    7590
+                ],
+                "item_name": "Onyxia Scale Cloak",
+                "item_quality": "3",
+                "total_resistance": 36
+            },
+            {
+                "item_id": 228166,
+                "item_level": 75,
+                "bonuses": [
+                    2504,
+                    2627
+                ],
+                "item_name": "Key to the City",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228262,
+                "item_level": 66,
+                "bonuses": [],
+                "item_name": "Crimson Shocker",
+                "item_quality": "4",
+                "total_resistance": 10
+            }
+        ],
+        "total_resistance": 227
+    },
+    "Dpsmage": {
+        "gear": [
+            {
+                "item_id": 3075,
+                "item_level": 55,
+                "bonuses": [
+                    1505,
+                    7560
+                ],
+                "item_name": "Eye of Flame",
+                "item_quality": "4",
+                "total_resistance": 35
+            },
+            {
+                "item_id": 228533,
+                "item_level": 61,
+                "bonuses": [],
+                "item_name": "Nacreous Shell Necklace",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226560,
+                "item_level": 66,
+                "bonuses": [
+                    2483,
+                    0
+                ],
+                "item_name": "Arcanist Mantle",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 6096,
+                "item_level": 1,
+                "bonuses": [],
+                "item_name": "Apprentice's Shirt",
+                "item_quality": "1",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 226559,
+                "item_level": 66,
+                "bonuses": [
+                    928,
+                    6729
+                ],
+                "item_name": "Arcanist Robes",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 226555,
+                "item_level": 66,
+                "bonuses": [
+                    0,
+                    6732
+                ],
+                "item_name": "Arcanist Belt",
+                "item_quality": "4",
+                "total_resistance": 7
+            },
+            {
+                "item_id": 226561,
+                "item_level": 66,
+                "bonuses": [
+                    1505,
+                    7020
+                ],
+                "item_name": "Arcanist Leggings",
+                "item_quality": "4",
+                "total_resistance": 30
+            },
+            {
+                "item_id": 226557,
+                "item_level": 66,
+                "bonuses": [
+                    911,
+                    6921
+                ],
+                "item_name": "Arcanist Boots",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 226558,
+                "item_level": 66,
+                "bonuses": [
+                    1883,
+                    7097
+                ],
+                "item_name": "Arcanist Bindings",
+                "item_quality": "4",
+                "total_resistance": 5
+            },
+            {
+                "item_id": 227823,
+                "item_level": 71,
+                "bonuses": [
+                    930,
+                    6923
+                ],
+                "item_name": "Fine Flarecore Gloves",
+                "item_quality": "4",
+                "total_resistance": 25
+            },
+            {
+                "item_id": 227454,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7515
+                ],
+                "item_name": "Tidal Loop",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 228687,
+                "item_level": 74,
+                "bonuses": [
+                    0,
+                    7516
+                ],
+                "item_name": "Dragonslayer's Signet",
+                "item_quality": "4",
+                "total_resistance": 10
+            },
+            {
+                "item_id": 12930,
+                "item_level": 60,
+                "bonuses": [],
+                "item_name": "Briarwood Reed",
+                "item_quality": "3",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228255,
+                "item_level": 71,
+                "bonuses": [],
+                "item_name": "Talisman of Ephemeral Power",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227869,
+                "item_level": 62,
+                "bonuses": [
+                    7564,
+                    7272
+                ],
+                "item_name": "Brilliant Chromatic Cloak",
+                "item_quality": "4",
+                "total_resistance": 28
+            },
+            {
+                "item_id": 20214,
+                "item_level": 65,
+                "bonuses": [
+                    2504,
+                    2627
+                ],
+                "item_name": "Mindfang",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 19311,
+                "item_level": 65,
+                "bonuses": [],
+                "item_name": "Tome of Fiery Arcana",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 13004,
+                "item_level": 58,
+                "bonuses": [],
+                "item_name": "Torch of Austen",
+                "item_quality": "3",
+                "total_resistance": 10
+            }
+        ],
+        "total_resistance": 192
     },
     "Tjolla": {
         "gear": [
@@ -3366,23 +3361,23 @@
                 "total_resistance": 10
             },
             {
-                "item_id": 228354,
-                "item_level": 68,
+                "item_id": 228685,
+                "item_level": 74,
                 "bonuses": [],
-                "item_name": "Blazefury Medallion",
+                "item_name": "Onyxia Tooth Pendant",
                 "item_quality": "4",
-                "total_resistance": 12
+                "total_resistance": 10
             },
             {
-                "item_id": 228583,
-                "item_level": 61,
+                "item_id": 226665,
+                "item_level": 66,
                 "bonuses": [
                     2483,
                     0
                 ],
-                "item_name": "Truestrike Shoulders",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Cenarion Shoulders",
+                "item_quality": "4",
+                "total_resistance": 7
             },
             {
                 "item_id": 221316,
@@ -3437,26 +3432,26 @@
                 "total_resistance": 5
             },
             {
-                "item_id": 19587,
+                "item_id": 226788,
                 "item_level": 65,
                 "bonuses": [
                     927,
                     6977
                 ],
-                "item_name": "Forest Stalker's Bracers",
-                "item_quality": "4",
+                "item_name": "Feralheart Bands",
+                "item_quality": "3",
                 "total_resistance": 0
             },
             {
-                "item_id": 228257,
-                "item_level": 71,
+                "item_id": 226793,
+                "item_level": 55,
                 "bonuses": [
-                    1887,
+                    927,
                     6868
                 ],
-                "item_name": "Aged Core Leather Gloves",
+                "item_name": "Feralheart Fists",
                 "item_quality": "4",
-                "total_resistance": 10
+                "total_resistance": 0
             },
             {
                 "item_id": 227280,
@@ -3489,12 +3484,12 @@
                 "total_resistance": 0
             },
             {
-                "item_id": 228084,
+                "item_id": 228089,
                 "item_level": 62,
                 "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
+                "item_name": "Woodcarved Moonstalker",
                 "item_quality": "3",
-                "total_resistance": 20
+                "total_resistance": 0
             },
             {
                 "item_id": 12905,
@@ -3512,7 +3507,7 @@
                 "item_level": 80,
                 "bonuses": [
                     1900,
-                    1703
+                    2506
                 ],
                 "item_name": "Sulfuras, Hand of Ragnaros",
                 "item_quality": "5",
@@ -3535,194 +3530,183 @@
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 196
+        "total_resistance": 171
     },
-    "Dusypestryer": {
+    "Haegstrom": {
         "gear": [
             {
-                "item_id": 226622,
+                "item_id": 226658,
                 "item_level": 66,
                 "bonuses": [
                     1505,
-                    6987
+                    7104
                 ],
-                "item_name": "Earthfury Visor",
+                "item_name": "Cenarion Antlers",
                 "item_quality": "4",
                 "total_resistance": 30
             },
             {
-                "item_id": 16309,
+                "item_id": 228536,
                 "item_level": 63,
                 "bonuses": [],
-                "item_name": "Drakefire Amulet",
+                "item_name": "Star of Mystaria",
                 "item_quality": "3",
-                "total_resistance": 15
+                "total_resistance": 0
             },
             {
-                "item_id": 228258,
-                "item_level": 71,
+                "item_id": 226653,
+                "item_level": 66,
                 "bonuses": [
-                    7325,
+                    7563,
                     0
                 ],
-                "item_name": "Deep Earth Spaulders",
+                "item_name": "Cenarion Mantle",
                 "item_quality": "4",
-                "total_resistance": 0
+                "total_resistance": 22
             },
             {
-                "item_id": 154,
-                "item_level": 1,
-                "bonuses": [],
-                "item_name": "Primitive Mantle",
-                "item_quality": "1",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 228239,
+                "item_id": 226656,
                 "item_level": 66,
                 "bonuses": [
-                    928,
-                    6878
+                    1891,
+                    6872
                 ],
-                "item_name": "Robe of Volatile Power",
+                "item_name": "Cenarion Embrace",
                 "item_quality": "4",
-                "total_resistance": 0
+                "total_resistance": 10
             },
             {
-                "item_id": 228256,
-                "item_level": 71,
-                "bonuses": [
-                    0,
-                    6980
-                ],
-                "item_name": "Mana Igniting Cord",
-                "item_quality": "4",
-                "total_resistance": 0
-            },
-            {
-                "item_id": 226623,
-                "item_level": 66,
-                "bonuses": [
-                    1505,
-                    6877
-                ],
-                "item_name": "Earthfury Leggings",
-                "item_quality": "4",
-                "total_resistance": 30
-            },
-            {
-                "item_id": 226620,
-                "item_level": 66,
-                "bonuses": [
-                    911,
-                    6882
-                ],
-                "item_name": "Earthfury Walkers",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226626,
-                "item_level": 66,
-                "bonuses": [
-                    1883,
-                    7126
-                ],
-                "item_name": "Earthfury Wristbands",
-                "item_quality": "4",
-                "total_resistance": 5
-            },
-            {
-                "item_id": 226621,
+                "item_id": 226657,
                 "item_level": 66,
                 "bonuses": [
                     0,
-                    6883
+                    7106
                 ],
-                "item_name": "Earthfury Hands",
+                "item_name": "Cenarion Cord",
                 "item_quality": "4",
                 "total_resistance": 7
             },
             {
-                "item_id": 228046,
-                "item_level": 63,
+                "item_id": 226651,
+                "item_level": 66,
                 "bonuses": [
-                    0,
-                    7515
+                    1505,
+                    7011
                 ],
-                "item_name": "Don Mauricio's Band of Domination",
-                "item_quality": "3",
-                "total_resistance": 0
+                "item_name": "Cenarion Pants",
+                "item_quality": "4",
+                "total_resistance": 30
             },
             {
-                "item_id": 227279,
-                "item_level": 63,
+                "item_id": 226774,
+                "item_level": 60,
                 "bonuses": [
-                    0,
-                    7517
+                    911,
+                    6871
                 ],
-                "item_name": "Loop of the Magister",
+                "item_name": "Feralheart Galoshes",
                 "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 18638,
-                "item_level": 58,
-                "bonuses": [],
-                "item_name": "Hyper-Radiant Flame Reflector",
-                "item_quality": "3",
-                "total_resistance": 18
+                "item_id": 226655,
+                "item_level": 66,
+                "bonuses": [
+                    1883,
+                    6977
+                ],
+                "item_name": "Cenarion Wrists",
+                "item_quality": "4",
+                "total_resistance": 5
             },
             {
-                "item_id": 228084,
-                "item_level": 62,
-                "bonuses": [],
-                "item_name": "Miniaturized Fire Extinguisher",
-                "item_quality": "3",
+                "item_id": 226777,
+                "item_level": 55,
+                "bonuses": [
+                    1843,
+                    6976
+                ],
+                "item_name": "Feralheart Hands",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 228287,
+                "item_level": 77,
+                "bonuses": [
+                    0,
+                    7517
+                ],
+                "item_name": "Band of Sulfuras",
+                "item_quality": "4",
+                "total_resistance": 0
+            },
+            {
+                "item_id": 227454,
+                "item_level": 65,
+                "bonuses": [
+                    0,
+                    7514
+                ],
+                "item_name": "Tidal Loop",
+                "item_quality": "4",
                 "total_resistance": 20
             },
             {
-                "item_id": 12905,
-                "item_level": 61,
+                "item_id": 228686,
+                "item_level": 74,
+                "bonuses": [],
+                "item_name": "Onyxia Blood Talisman",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 227915,
+                "item_level": 65,
+                "bonuses": [],
+                "item_name": "Duke's Domain",
+                "item_quality": "4",
+                "total_resistance": 20
+            },
+            {
+                "item_id": 228100,
+                "item_level": 77,
                 "bonuses": [
                     7564,
-                    7268
+                    7259
                 ],
-                "item_name": "Wildfire Cape",
-                "item_quality": "3",
-                "total_resistance": 40
+                "item_name": "Drape of the Fire Lord",
+                "item_quality": "4",
+                "total_resistance": 30
             },
             {
                 "item_id": 227886,
                 "item_level": 69,
                 "bonuses": [
                     2504,
-                    1665
+                    2627
                 ],
                 "item_name": "Skyrider's Masterwork Stormhammer",
                 "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 228142,
-                "item_level": 66,
-                "bonuses": [
-                    7603,
-                    7602
-                ],
-                "item_name": "Earth and Fire",
+                "item_id": 19315,
+                "item_level": 65,
+                "bonuses": [],
+                "item_name": "Therazane's Touch",
                 "item_quality": "4",
                 "total_resistance": 0
             },
             {
-                "item_id": 228176,
-                "item_level": 65,
+                "item_id": 228180,
+                "item_level": 60,
                 "bonuses": [],
-                "item_name": "Totem of Thunder",
+                "item_name": "Idol of the Swarm",
                 "item_quality": "3",
                 "total_resistance": 0
             }
         ],
-        "total_resistance": 170
+        "total_resistance": 194
     }
 }
